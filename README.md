@@ -1,6 +1,7 @@
 # Welcome to React Router!
 
 - [React Router Docs](https://reactrouter.com/home)
+- [Video walkthrough](https://youtu.be/pw8FAg07kdo?si=aLvB1NYHF4DZJ7PP)
 
 ## Development
 
